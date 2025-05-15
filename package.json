@@ -7,5 +7,18 @@
   },
   "author": "Felix Daniel Salinas",
   "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.14.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniesali/proyecto2bit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Daniesali/proyecto2bit/issues"
+  },
+  "homepage": "https://github.com/Daniesali/proyecto2bit#readme",
   "description": ""
 }
